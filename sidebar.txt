@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[byp:home|Door43 (byp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-byp|d43-byp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-byp/archive/master.zip|d43-byp.zip]]
+
+**Recent Changes**
+{{changes>ns = byp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/byp|Ethnologue data]]
+
